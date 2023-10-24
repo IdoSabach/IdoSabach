@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ido Sabach</h1>
-<h3 align="center">I am a second year computer science student majoring in data science and studying independently Full-Stuck</h3>
+<h3 align="center">I am a second year computer science student majoring in data science and studying independently Full-Stack Developer</h3>
 
 - 📫 How to reach me **Idosabach11@gmail.com**
 
