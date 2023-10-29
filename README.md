@@ -129,12 +129,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
         width="48"
         height="48"
-        alt="Python"
+        alt="typescript"
       />
-      <br /><strong>Python</strong>
+      <br /><strong>TypeScript</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -159,7 +159,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=idosabach&show_icons=true&locale=en" alt="idosabach" width="380" height="200"/>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=idosabach&theme=default" alt="idosabach" width=380" height="200" /></p>
-
 
 
 
