@@ -1,8 +1,8 @@
-# 👋 Hey there
+<!--# 👋 Hey there
 
 <div align="justify">
     My name is Ido. I'm in my second year of a computer science degree, majoring in data science, and studying independently full-stack web development
-</div>
+</div> --!>
  <!--
 # 🔧 Technologies & Tools
 <table>
@@ -157,11 +157,11 @@
   </tr>
 </table>
 -->
-
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=idosabach&show_icons=true&locale=en" alt="idosabach" width="380" height="200"/>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=idosabach&theme=default" alt="idosabach" width=380" height="200" /></p>
 
-
+--!>
 
 
 
